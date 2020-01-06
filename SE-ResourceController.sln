@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE-ResourceController", "SE-ResourceController\SE-ResourceController.csproj", "{A6C0089E-A376-44A5-B080-C5DAF1A90CD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6C0089E-A376-44A5-B080-C5DAF1A90CD3}.Debug|x64.ActiveCfg = Debug|x64
+		{A6C0089E-A376-44A5-B080-C5DAF1A90CD3}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCE1D5EA-D02E-4529-AF38-77A32A8E66C8}
+	EndGlobalSection
+EndGlobal
